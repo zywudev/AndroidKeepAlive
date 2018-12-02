@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AIDLClient.iml" filepath="$PROJECT_DIR$/AIDLClient.iml" />
+      <module fileurl="file://C:\Users\wuzy\Desktop\learning\AndroidKeepAlive\AIDLClient\AIDLClient.iml" filepath="C:\Users\wuzy\Desktop\learning\AndroidKeepAlive\AIDLClient\AIDLClient.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\wuzy\Desktop\learning\AndroidKeepAlive\AIDLClient\app\app.iml" filepath="C:\Users\wuzy\Desktop\learning\AndroidKeepAlive\AIDLClient\app\app.iml" />
     </modules>
   </component>
 </project>

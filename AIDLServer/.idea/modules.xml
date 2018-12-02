@@ -3,7 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AIDLServer.iml" filepath="$PROJECT_DIR$/AIDLServer.iml" />
+      <module fileurl="file://C:\Users\wuzy\Desktop\learning\AndroidKeepAlive\AIDLServer\AIDLServer.iml" filepath="C:\Users\wuzy\Desktop\learning\AndroidKeepAlive\AIDLServer\AIDLServer.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://C:\Users\wuzy\Desktop\learning\AndroidKeepAlive\AIDLServer\app\app.iml" filepath="C:\Users\wuzy\Desktop\learning\AndroidKeepAlive\AIDLServer\app\app.iml" />
     </modules>
   </component>
 </project>

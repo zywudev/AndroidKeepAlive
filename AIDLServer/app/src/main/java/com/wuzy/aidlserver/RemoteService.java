@@ -22,7 +22,7 @@ public class RemoteService extends Service {
     public void onCreate() {
         super.onCreate();
         Log.e(TAG, "onCreate: 创建 RemoteService");
-
+        bindLocalService();
     }
 
     @Override
@@ -32,7 +32,7 @@ public class RemoteService extends Service {
 
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
-        bindLocalService();
+        Log.e(TAG, "onStartCommand: " );
         return START_STICKY;
     }
 

@@ -33,11 +33,13 @@ public class LocalService extends Service {
 //            }
 //        }, 5000);
 
+        bindRemoteService();
+
     }
 
     @Override
     public int onStartCommand(Intent intent, int flags, int startId) {
-        bindRemoteService();
+        Log.e(TAG, "onStartCommand: " );
         return START_STICKY;
     }
 
